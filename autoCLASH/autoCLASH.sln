@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoCLASH", "autoCLASH.csproj", "{D16D7144-A605-4266-AFFF-7E212D88AE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D16D7144-A605-4266-AFFF-7E212D88AE04}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EACC5E6-C609-46FF-93B5-E8BFFA6B0B40}
+	EndGlobalSection
+EndGlobal
