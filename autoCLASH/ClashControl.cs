@@ -2277,7 +2277,7 @@ namespace autoCLASH
                 }
             }
             ++_iIndex;
-
+            
             Console.WriteLine("~~~!!!@@@");
 
             time = string.Format("{0}시{1}분{2}초", DateTime.Now.Hour.ToString("00"), DateTime.Now.Minute.ToString("00")
